@@ -1,5 +1,5 @@
 # blitzbox2561cj125
-mini-sized ECU for speeduino firmware (50.1 x 58.6 mm)
+low-cost and mini-sized ECU for speeduino firmware (50.1 x 58.6 mm)
 
 2 injectors<br/>
 3 active ignition coils or 1 passive ignition coil with separate ground plane<br/>
@@ -16,7 +16,7 @@ Onboard Wideband Lambda Controller with Bosch CJ125 (LSU 4.9)<br/>
 1 second serial TTL<br/>
 USB programming interface with PL2303SA (Tunerstudio)<br/>
 
-all in/outputs can be programmed different
+all in/outputs can be defined different in firmware
 
 
 [Link to the original speeduino project](https://www.speeduino.com "speeduino homepage")
