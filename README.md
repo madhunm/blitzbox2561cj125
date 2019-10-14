@@ -9,11 +9,11 @@ mini-sized ECU for speeduino firmware (50.1 x 58.6 mm)
 Onboard Wideband Lambda Controller with Bosch CJ125 (LSU 4.9)<br/>
 
 1 fuel pump out<br/>
-
 1 idle valve out<br/>
 1 tacho out<br/>
 
-XXXX free and non-wired general purpose I/O's<br/>
+1 free and non-wired general purpose I/O<br/>
+1 second serial TTL<br/>
 USB programming interface with PL2303SA (Tunerstudio)<br/>
 
 all in/outputs can be programmed different
