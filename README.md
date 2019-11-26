@@ -1,7 +1,7 @@
 # blitzbox2561cj125
 low-cost and mini-sized ECU for speeduino firmware (50.1 x 58.6 mm)
 
-2 injectors (max. 2.8A per channel<br/>
+2 injectors (max. 2.8A per channel)<br/>
 4 active ignition coils or 1 passive ignition coil with separate ground plane<br/>
 1 crankshaft sensor with VR-conditioner<br/>
 5 analog inputs: CLT, IAT, TPS, BAT, MAP (MPXH6400A)<br/>
